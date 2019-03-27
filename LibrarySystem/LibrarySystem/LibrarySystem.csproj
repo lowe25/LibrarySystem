@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E6CA82BC-70AC-414D-AE33-FC3426D54016}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LibrarySystem</RootNamespace>
+    <AssemblyName>LibrarySystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BookInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookInventory.Designer.cs">
+      <DependentUpon>BookInventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BookInventoryDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BookInventoryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BookInventoryDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BookInventoryDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BorrowBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorrowBook.Designer.cs">
+      <DependentUpon>BorrowBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BorrowerList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorrowerList.Designer.cs">
+      <DependentUpon>BorrowerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BorrowerListDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BorrowerListDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BorrowerListDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BorrowerListDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LibrarianDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibrarianDashBoard.Designer.cs">
+      <DependentUpon>LibrarianDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyReservedBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyReservedBooks.Designer.cs">
+      <DependentUpon>MyReservedBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PenaltyAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PenaltyAdd.Designer.cs">
+      <DependentUpon>PenaltyAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PenaltyListcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PenaltyListcs.Designer.cs">
+      <DependentUpon>PenaltyListcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reservation.Designer.cs">
+      <DependentUpon>Reservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReturnBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReturnBook.Designer.cs">
+      <DependentUpon>ReturnBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReturnerList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReturnerList.Designer.cs">
+      <DependentUpon>ReturnerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BorrowertDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorrowertDashBoard.Designer.cs">
+      <DependentUpon>BorrowertDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TransactionHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransactionHistory.Designer.cs">
+      <DependentUpon>TransactionHistory.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BookInventory.resx">
+      <DependentUpon>BookInventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BorrowBook.resx">
+      <DependentUpon>BorrowBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BorrowerList.resx">
+      <DependentUpon>BorrowerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibrarianDashBoard.resx">
+      <DependentUpon>LibrarianDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyReservedBooks.resx">
+      <DependentUpon>MyReservedBooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PenaltyAdd.resx">
+      <DependentUpon>PenaltyAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PenaltyListcs.resx">
+      <DependentUpon>PenaltyListcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reservation.resx">
+      <DependentUpon>Reservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReturnBook.resx">
+      <DependentUpon>ReturnBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReturnerList.resx">
+      <DependentUpon>ReturnerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BorrowertDashBoard.resx">
+      <DependentUpon>BorrowertDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransactionHistory.resx">
+      <DependentUpon>TransactionHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="BookInventoryDataSet.xsc">
+      <DependentUpon>BookInventoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BookInventoryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BookInventoryDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BookInventoryDataSet.xss">
+      <DependentUpon>BookInventoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BookInventoryDataSet1.xsc">
+      <DependentUpon>BookInventoryDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BookInventoryDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BookInventoryDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BookInventoryDataSet1.xss">
+      <DependentUpon>BookInventoryDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BorrowerListDataSet.xsc">
+      <DependentUpon>BorrowerListDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BorrowerListDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BorrowerListDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BorrowerListDataSet.xss">
+      <DependentUpon>BorrowerListDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BorrowerListDataSet1.xsc">
+      <DependentUpon>BorrowerListDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BorrowerListDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BorrowerListDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BorrowerListDataSet1.xss">
+      <DependentUpon>BorrowerListDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BookInventory.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="BorrowerList.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\library.jpg" />
+    <None Include="Resources\100_1141.jpg" />
+    <None Include="Resources\3029579-poster-p-1-3029579-who-needs-business-school-the-hidden-startup-resources-at-your-local-library.jpg" />
+    <None Include="Resources\library-1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,92 @@
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojResolveAssemblyReference.cache
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.LibrarianDashBoard.resources
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Login.resources
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.Cache
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BookInventory.resources
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BorrowerList.resources
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.PenaltyAdd.resources
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.PenaltyListcs.resources
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ReturnerList.resources
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BorrowBook.resources
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ReturnBook.resources
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BorrowertDashBoard.resources
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Debug\BookInventory.accdb
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Debug\BorrowerList.accdb
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Reservation.resources
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.TransactionHistory.resources
+C:\Users\Louie\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.MyReservedBooks.resources
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\bin\Debug\BookInventory.accdb
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\bin\Debug\BorrowerList.accdb
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojResolveAssemblyReference.cache
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BookInventory.resources
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BorrowBook.resources
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BorrowerList.resources
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.LibrarianDashBoard.resources
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Login.resources
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.MyReservedBooks.resources
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.PenaltyAdd.resources
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.PenaltyListcs.resources
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Reservation.resources
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ReturnBook.resources
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ReturnerList.resources
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BorrowertDashBoard.resources
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.TransactionHistory.resources
+C:\Users\Louie\Documents\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.Cache
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\bin\Debug\BookInventory.accdb
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\bin\Debug\BorrowerList.accdb
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojResolveAssemblyReference.cache
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BookInventory.resources
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BorrowBook.resources
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BorrowerList.resources
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.LibrarianDashBoard.resources
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Login.resources
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.MyReservedBooks.resources
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.PenaltyAdd.resources
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.PenaltyListcs.resources
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Reservation.resources
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ReturnBook.resources
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ReturnerList.resources
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BorrowertDashBoard.resources
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.TransactionHistory.resources
+C:\Users\Louie\Documents\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.Cache
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\bin\Debug\BookInventory.accdb
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\bin\Debug\BorrowerList.accdb
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojResolveAssemblyReference.cache
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BookInventory.resources
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BorrowBook.resources
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BorrowerList.resources
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.LibrarianDashBoard.resources
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Login.resources
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.MyReservedBooks.resources
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.PenaltyAdd.resources
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.PenaltyListcs.resources
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Reservation.resources
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ReturnBook.resources
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ReturnerList.resources
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BorrowertDashBoard.resources
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.TransactionHistory.resources
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.Cache
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\Louie\Documents\USB BACKUP\OLD USB BACKUP\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
